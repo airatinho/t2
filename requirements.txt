@@ -1,0 +1,15 @@
+appdirs==1.4.4
+certifi==2021.5.30
+distlib==0.3.2
+filelock==3.0.12
+flask==1.1.2
+pexpect==4.8.0
+ptyprocess==0.7.0
+jinja2==3.0.1
+psycopg2==2.9.1
+sh==1.14.2
+six==1.16.0
+virtualenv==20.4.7
+werkzeug==1.0.1
+flask[async]
+wincertstore==0.2
